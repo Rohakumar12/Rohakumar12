@@ -1,4 +1,6 @@
-# Hi there, I'm Rohan Kumar 👋
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Rohan Kumar</h1>
+
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ### 🚀 Full-Stack Developer | React.js | Next.js | Node.js | WebRTC | Gen AI
 
@@ -138,6 +140,7 @@ to AI-powered applications.
   </a>
 </p>
 
+
 ---
 
 <p align="center">
@@ -145,5 +148,9 @@ to AI-powered applications.
 </p>
 
 <p align="center">
-  ⭐ <b>If you find my projects useful, please consider giving them a star!</b>
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
+
+ects useful, please consider giving them a star!</b>
 </p>
