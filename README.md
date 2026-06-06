@@ -70,7 +70,7 @@ to AI-powered applications.
 ## 🔥 Featured Projects
 
 ### 🎯 [Mockify](https://mockify-phi.vercel.app) — Real-Time Collaborative Coding Platform
-> React.js • Node.js • Socket.IO • WebRTC • PeerJS • Judge0 API
+> React.js • Node.js • MongoDB  • Socket.IO • WebRTC • PeerJS • Judge0 API
 
 - 🔴 Live code synchronization with sub-100ms latency using Socket.IO WebSockets
 - 📹 Peer-to-peer video/audio calling via WebRTC and PeerJS
