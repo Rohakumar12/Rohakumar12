@@ -88,19 +88,6 @@ to AI-powered applications.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohakumar12&show_icons=true&theme=radical&hide_border=true" alt="Rohan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohakumar12&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohakumar12&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
