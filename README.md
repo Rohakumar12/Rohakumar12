@@ -69,7 +69,7 @@ to AI-powered applications.
 
 ## 🔥 Featured Projects
 
-### 🎯 [Mockify](https://mockify-rohan.vercel.app) — Real-Time Collaborative Coding Platform
+### 🎯 [Mockify](https://mockify-phi.vercel.app) — Real-Time Collaborative Coding Platform
 > React.js • Node.js • Socket.IO • WebRTC • PeerJS • Judge0 API
 
 - 🔴 Live code synchronization with sub-100ms latency using Socket.IO WebSockets
