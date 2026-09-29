@@ -68,23 +68,41 @@ to AI-powered applications.
 ---
 
 ## 🔥 Featured Projects
+### 🏢 [RoomReserve](https://github.com/Rohakumar12/Office-meeting-room-booking-system) — Office Meeting Room Booking System
+
+> React.js • Node.js • Express.js • MongoDB • JWT • Multer • Cloudinary • Recharts
+
+* 🏢 **Real-time room availability and conflict-free booking** with minute-level slot management and automated booking completion every 5 minutes
+* 🔐 **Secure authentication and authorization** using JWT HTTP-only cookies, RBAC, bcryptjs, Joi validation, Helmet, CORS, and rate limiting
+* ☁️ **Image upload and cloud delivery** using Multer + Cloudinary with 5 MB file validation and upload protection
+* 📊 **Admin analytics dashboard** using MongoDB aggregation pipelines and Recharts for booking trends, room utilization, peak hours, and status analysis
+
+### 🎯[VideoInsight-AI](https://github.com/Rohakumar12/videoinsight-ai) — YouTube RAG Platform**
+
+> React.js • Node.js • Express.js • Python • FastAPI • LangChain • NVIDIA NIM • Pinecone • MongoDB
+
+🎥 Built a semantic Q&A platform for YouTube videos using LangChain for transcript ingestion, chunking, embeddings, and contextual retrieval.
+⚡ Designed a microservices architecture separating AI inference (Python FastAPI + NVIDIA NIM) from the Express.js backend for independent scaling.
+🧠 Engineered a Pinecone-powered RAG pipeline with conversational context and JWT-secured multi-turn chat history persisted in MongoDB.
+🔗 Integrated end-to-end video processing and retrieval to enable context-aware answers from long-form YouTube content.
+
 
 ### 🎯 [Mockify](https://mockify-phi.vercel.app) — Real-Time Collaborative Coding Platform
 > React.js • Node.js • MongoDB  • Socket.IO • WebRTC • PeerJS • Judge0 API
 
-- 🔴 Live code synchronization with sub-100ms latency using Socket.IO WebSockets
-- 📹 Peer-to-peer video/audio calling via WebRTC and PeerJS
-- 💻 In-browser code execution for 5 languages (C++, Python, Java, JS, C) via Judge0 API
-- 🎨 Synchronized real-time whiteboard using HTML5 Canvas
-- 🏠 Room-based session management with real-time user presence tracking
+-  Live code synchronization with sub-100ms latency using Socket.IO WebSockets
+-  Peer-to-peer video/audio calling via WebRTC and PeerJS
+- In-browser code execution for 5 languages (C++, Python, Java, JS, C) via Judge0 API
+-  Synchronized real-time whiteboard using HTML5 Canvas
+-  Room-based session management with real-time user presence tracking
 
 ### 🍔 [SwiftEats](https://foodify-liart.vercel.app) — Food Delivery Web App
 > React.js • Redux • REST APIs • Tailwind CSS
 
-- 🍕 Live restaurant data integration via REST APIs
-- 🛒 Cart management with Redux global state
-- ⚡ Lazy loading and React Router v6 for optimized performance
-- 📱 Fully responsive UI with Tailwind CSS
+-  Live restaurant data integration via REST APIs
+-  Cart management with Redux global state
+-  Lazy loading and React Router v6 for optimized performance
+-  Fully responsive UI with Tailwind CSS
 
 ---
 
